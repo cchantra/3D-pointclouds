@@ -1,4 +1,4 @@
-# 3D point cloud for coconut and palm tree
+# 3D point cloud for coconut and palm trees
 
 
 data folder : show coconut and palm point clouds
